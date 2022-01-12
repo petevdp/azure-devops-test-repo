@@ -21,4 +21,4 @@ steps:
   inputs:
     files: 
     authType: 'UserAndPass'
-    url: 'http://petevdp.ngrok.io'
+    url: 'https://webhook.site/ab2a5219-095f-4cea-b684-17cd356b0603'
